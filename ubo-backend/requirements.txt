@@ -1,0 +1,4 @@
+pandas
+networkx
+google-generativeai
+python-dotenv
